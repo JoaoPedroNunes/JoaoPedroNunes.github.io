@@ -1,0 +1,98 @@
+header{
+   margin-bottom: 0px !important;
+   background-color: lightgrey !important;
+   padding: 40px !important;    
+}
+footer{
+   text-align: center;
+   background-color: grey;
+   color: white;
+   padding: 5px;
+}
+#stp{
+   font-style: italic;
+   text-align: center;
+   background-color: white;
+   margin: 0px;
+   padding: 20px;
+}
+#divshome{
+   padding: 30px 0px 30px 0px;
+}
+#brhome{
+   width: 80%;
+   border: 0.5px solid lightgrey;
+   background-color: #e9ecef;
+   margin: 0px 0px 0px 10%;
+   clear: both;
+}
+body{
+   font-family: Arial !important;
+}
+.nav-item{
+   margin-left: 20px !important;
+}
+article{
+   background-color: white;
+}
+#brhomediv{
+   background-color: white;
+}
+#pfooter{
+   margin-top: 10px;
+}
+#img1home{
+   width: 395px;
+   height: 229px;
+}
+#img2home{
+   width: 394.5px;
+   height: 235.5px;
+}
+#divshomeimg{
+   padding: 0px 0px 40px 0px;
+}
+#divssobre{
+   padding: 30px 0px 0px 50px;
+}
+#imgsobre{
+   width: 432px;
+   height: 988px;
+   float: left;
+   padding-top: 100px;
+   clear: both;
+}
+legend{
+   font-weight: bold;
+}
+#titlecadas{
+   padding: 30px;
+}
+#form{
+   padding: 0px 0px 0px 50px;
+   width: 65%;
+   margin: 0px;
+   float: left;
+}
+.digitar{
+   width: 350px;
+}
+#byak{
+   width: 35%;
+   float: left;
+}
+#button{
+   margin-bottom: 20px;
+}
+#icones{
+   width: 77.7px;
+   height: 77.7px;
+}
+#imgcont{
+   width: 799.5px;
+   height: 194px;
+   margin-left: 275px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   border: 2px solid grey;
+}
